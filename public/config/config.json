@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5fA8A20c2226faF52EcA6D6704D8a9015F57397c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5fA8A20c2226faF52EcA6D6704D8a9015F57397c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weird Birds",
+  "SYMBOL": "BERDS",
+  "MAX_SUPPLY": 10500,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/weird--birds",
+  "SHOW_BACKGROUND": true
+}
